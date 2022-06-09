@@ -1,0 +1,69 @@
+mysql> use onlinefaculty_mng
+Database changed
+mysql> show tables ;
+   
++-----------------------------+
+| Tables_in_onlinefaculty_mng |
++-----------------------------+
+| admin                       |
+| appliedvacancy              |
+| candidate                   |
+| recruiterdemo               |
+| vacancy                     |
++-----------------------------+
+5 rows in set (0.00 sec)
+
+mysql> select*from admin;
++-------------------------+-----------+
+| email                   | password  |
++-------------------------+-----------+
+| namansoni1109@gmail.com | naman1109 |
+| deepak123@gmail.com     | deepak11  |
+| subham@gmail.com        | subham11  |
++-------------------------+-----------+
+3 rows in set (0.01 sec)
+
+mysql> select * from appliedvacancy ;
+  
++----+------+------------------+--------------------+---------------------+--------------+
+| id | vid  | candidateemail   | recruiteremail     | post                | status       |
++----+------+------------------+--------------------+---------------------+--------------+
+|  1 | 1    | sub123@gmail.com | naman123@gmail.com | Assistant Professor | Short Listed |
+|  2 | 2    | sub123@gmail.com | naman123@gmail.com | Associate Professor | Short Listed |
+|  3 | 1    | sub123@gmail.com | naman123@gmail.com | Assistant Professor | Received     |
+|  4 | 1    | sub123@gmail.com | naman123@gmail.com | Assistant Professor | Received     |
++----+------+------------------+--------------------+---------------------+--------------+
+4 rows in set (0.00 sec)
+
+mysql> select * from candidate ;
+
++--------+-------------------+----------+--------+------------+-------------------+------------+---------------+------------+------------+--------+-------+
+| fname  | email             | password | gender | date       | address           | mobile     | qualification | percentage | experience | status | lname |
++--------+-------------------+----------+--------+------------+-------------------+------------+---------------+------------+------------+--------+-------+
+| subham | sub123@gmail.com  | 12345    | male   | 2022-03-18 | indore            | 7654345632 | B.com         | 80         | 1 year     | active | verma |
+| david  | david11@gmail.com | 123454   | male   | 2001-06-06 | david11@gmail.com | 6677454635 | BE            | 80         | Fresher    | active | birla |
++--------+-------------------+----------+--------+------------+-------------------+------------+---------------+------------+------------+--------+-------+
+2 rows in set (0.00 sec)
+
+mysql> select * from recruiterdemo;
++---------------+-----------+---------------------+----------+------------+--------------------+----------+
+| name          | recruiter | email               | password | contact    | address            | status   |
++---------------+-----------+---------------------+----------+------------+--------------------+----------+
+| naman soni    | school    | naman123@gmail.com  | naman11  | 9754553244 | sanawad            | active   |
+| Shubham Vrafa | college   | subham123@gmail.com | 12345    | 9754556322 | indore             | inactive |
+| Panjak        | school    | pankaj11@gmail.com  | 12345    | 9977546344 | pankaj11@gmail.com | inactive |
+| siddharth     | school    | sidd123@gmail.com   | 12345    | 9977564355 | Indore             | inactive |
++---------------+-----------+---------------------+----------+------------+--------------------+----------+
+4 rows in set (0.01 sec)
+
+mysql> select * from vacancy;
++-----+---------------------+-------------+----------+----------+---------+-------------+------------+------------+--------------------+-----------+---------------+
+| vid | post                | subject     | location | criteria | vacancy | salary      | advdate    | lastdate   | email              | recruiter | recruitername |
++-----+---------------------+-------------+----------+----------+---------+-------------+------------+------------+--------------------+-----------+---------------+
+|   1 | Assistant Professor | IT Subjects | indore   | B.com    | 5       | 40000       | 2022-03-05 | 2022-03-27 | naman123@gmail.com | school    | naman soni    |
+|   2 | Associate Professor | IT Subjects | indore   | BCA      | 2       | 40000       | 2022-03-26 | 2022-04-10 | naman123@gmail.com | school    | naman soni    |
+|   3 | Associate Professor | EC          | indore   | B.com    | 3       | 10000-20000 | 2022-05-06 | 2022-05-29 | pankaj11@gmail.com | school    | Panjak        |
+|   4 | Assistant Professor | CS Subjects | Indore   | BE       | 4       | 350000      | 2022-05-07 | 2022-05-29 | sidd123@gmail.com  | school    | siddharth     |
++-----+---------------------+-------------+----------+----------+---------+-------------+------------+------------+--------------------+-----------+---------------+
+4 rows in set (0.01 sec)
+
