@@ -1,0 +1,22 @@
+SMAP
+recruiter_005fadd_005fvacancy_jsp.java
+JSP
+*S JSP
+*F
++ 0 recruiter_header.jsp
+recruiter_header.jsp
++ 1 recruiter_add_vacancy.jsp
+recruiter_add_vacancy.jsp
+*L
+1,38:51
+1#1,9:88
+10,2:98
+11,58:100
+69:158,3
+70,5:161
+74,4:166
+78:170,3
+79,2:173
+81:175,3
+82,30:178
+*E

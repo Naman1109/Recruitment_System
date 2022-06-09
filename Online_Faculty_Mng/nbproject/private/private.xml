@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiter_reg.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/adminapproverecruiter.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiter_update_status.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiter_login.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dao/AppliedVacancyDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dao/CandidateDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/vacancystatus.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiter_add_vacancy_db.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiter_logout.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/adminhome.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidate_home.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidatelogindb.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dao/AdminDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dto/Vacancy.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidate_login.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/view_vacancy.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dto/Recruiter.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dto/Candidate.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/style.css</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidate_logout.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/admin_login.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidatelist.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiter_header.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidate_header.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiter_add_vacancy.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiterlist.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/admin_header.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiter_home.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/myconn/GetConnection.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/admin_logout.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidate_reg_db.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/addRecruiter.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dao/VacancyDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/index.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidate_reg.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/jquery.dropotron-1.0.js</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dto/AppliedVacancy.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/recruiterlogindb.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/index_header.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/candidate_apply_vacancy.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/src/java/dao/RecruiterDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Online_Faculty_Mng/web/adminlogindb.jsp</file>
+        </group>
+    </open-files>
+</project-private>
